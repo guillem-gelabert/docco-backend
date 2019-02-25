@@ -12,8 +12,8 @@ Docco contract management software goes beyond traditional back and forth paper 
 1. Clone the repository
 
    ```bash
-   $ git clone https://github.com/gaber85/docco-frontend.git
-   $ cd docco-frontend
+   $ git clone https://github.com/gaber85/docco-backend.git
+   $ cd docco-backend
    ```
 
 2. Install dependencies
